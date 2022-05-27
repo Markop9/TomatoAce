@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x487D06e4f67875F4e20Cdab397c3d7e6A5b5161F",
+  "SCAN_LINK": "https://etherscan.io/address/0x487D06e4f67875F4e20Cdab397c3d7e6A5b5161F",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Tomato Ace",
+  "SYMBOL": "TA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 220000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tomato-ace",
+  "SHOW_BACKGROUND": true
+}
